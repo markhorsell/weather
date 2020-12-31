@@ -47,6 +47,8 @@ const fetchString=`https://markweather.azurewebsites.net/api/HttpTrigger2?code=b
       return <div>
         {dp.dt_txt}{" "}
         {dp.weather[0].main}
+        {dp.weather[0].icon}
+        <img src={`http://openweathermap.org/img/w/${dp.weather[0].icon}.png`}/>
         </div>
     })}
     </div>
