@@ -1,3 +1,5 @@
+#very basic frontend for receiving data from openweathermap via azure function 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
