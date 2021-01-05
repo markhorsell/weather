@@ -1,5 +1,7 @@
 # very basic frontend for receiving data from openweathermap via azure function 
-# remeber to run "deploy": "gh-pages -d build" if deploying to gh-pages
+# remember to run "deploy": "gh-pages -d build" if deploying to gh-pages
+
+see https://markhorsell.github.io/weather/
 
 # Getting Started with Create React App
 
